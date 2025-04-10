@@ -4,6 +4,13 @@ This dashboard aims to provide a comprehensive view of transaction risk and faci
 
 ---
 
+<picture width="500">
+  <img
+    src="https://github.com/WaiYongF/Data_Visualization_of_Risk_Assessment_of_Transactions/blob/main/Images/Risk_Assessment_Data.PNG"
+    alt="Dashboard_Risk_Assessment_of_Transactions"
+  />
+</picture>
+
 ## Overview
 
 - **Total Transaction Volume**: `422,660`  
